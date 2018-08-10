@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="alldesakucur" id="alldesakucur">
+	<SimpleField name="DESA" type="string"></SimpleField>
+	<SimpleField name="KECAMATAN" type="string"></SimpleField>
+	<SimpleField name="KABUPATEN" type="string"></SimpleField>
+	<SimpleField name="PROPINSI" type="string"></SimpleField>
+	<SimpleField name="LUAS" type="float"></SimpleField>
+	<SimpleField name="MI_PRINX" type="float"></SimpleField>
+	<SimpleField name="orig_ogc_fid" type="int"></SimpleField>
+</Schema>
+<Folder><name>alldesakucur</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#alldesakucur">
+		<SimpleData name="DESA">-</SimpleData>
+		<SimpleData name="KECAMATAN">Dau</SimpleData>
+		<SimpleData name="KABUPATEN">Malang</SimpleData>
+		<SimpleData name="PROPINSI">Jawa Timur</SimpleData>
+		<SimpleData name="LUAS">21.9052</SimpleData>
+		<SimpleData name="MI_PRINX">27132</SimpleData>
+		<SimpleData name="orig_ogc_fid">27031</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>112.466835,-7.946001 112.471902,-7.942934 112.472987,-7.942468 112.485212,-7.937215 112.500512,-7.932407 112.514842,-7.929966 112.52337,-7.928339 112.533105,-7.933344 112.533233,-7.933372 112.532899,-7.935758 112.53045,-7.937393 112.527941,-7.939155 112.531785,-7.940474 112.532151,-7.942877 112.534887,-7.942886 112.537291,-7.942203 112.538512,-7.942813 112.538559,-7.943615 112.538609,-7.94446 112.537945,-7.94625 112.53909,-7.947748 112.535124,-7.948336 112.533876,-7.949566 112.532267,-7.951818 112.530838,-7.953495 112.530801,-7.954828 112.532022,-7.955438 112.531555,-7.95754 112.532901,-7.958021 112.533076,-7.960428 112.532798,-7.962434 112.531453,-7.961982 112.521376,-7.960725 112.511137,-7.960992 112.498816,-7.962062 112.486361,-7.962881 112.475314,-7.964096 112.474803,-7.96004 112.465654,-7.952341 112.465639,-7.948254 112.467,-7.946431 112.466835,-7.946001</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#alldesakucur">
+		<SimpleData name="DESA">Kucur</SimpleData>
+		<SimpleData name="KECAMATAN">Dau</SimpleData>
+		<SimpleData name="KABUPATEN">Malang</SimpleData>
+		<SimpleData name="PROPINSI">Jawa Timur</SimpleData>
+		<SimpleData name="LUAS">6.6166</SimpleData>
+		<SimpleData name="MI_PRINX">27133</SimpleData>
+		<SimpleData name="orig_ogc_fid">27032</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>112.532798,-7.962434 112.533076,-7.960428 112.532901,-7.958021 112.531555,-7.95754 112.532022,-7.955438 112.530801,-7.954828 112.530838,-7.953495 112.532267,-7.951818 112.533876,-7.949566 112.535124,-7.948336 112.53909,-7.947748 112.539186,-7.947874 112.541443,-7.949351 112.545484,-7.950983 112.549408,-7.953124 112.553884,-7.95424 112.556757,-7.954753 112.56025,-7.954429 112.561238,-7.953912 112.561603,-7.95529 112.564874,-7.956556 112.568961,-7.957299 112.573351,-7.958938 112.573198,-7.95918 112.569842,-7.963117 112.566721,-7.962989 112.563101,-7.963315 112.561003,-7.966529 112.561059,-7.969318 112.562497,-7.971192 112.562493,-7.972951 112.553439,-7.970042 112.552797,-7.969863 112.544289,-7.967498 112.538576,-7.964615 112.537155,-7.963898 112.532798,-7.962434</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#alldesakucur">
+		<SimpleData name="DESA">Kalisongo</SimpleData>
+		<SimpleData name="KECAMATAN">Dau</SimpleData>
+		<SimpleData name="KABUPATEN">Malang</SimpleData>
+		<SimpleData name="PROPINSI">Jawa Timur</SimpleData>
+		<SimpleData name="LUAS">9.3260</SimpleData>
+		<SimpleData name="MI_PRINX">27134</SimpleData>
+		<SimpleData name="orig_ogc_fid">27033</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>112.562493,-7.972951 112.562497,-7.971192 112.561059,-7.969318 112.561003,-7.966529 112.563101,-7.963315 112.566721,-7.962989 112.569842,-7.963117 112.573198,-7.95918 112.573351,-7.958938 112.575232,-7.955968 112.577756,-7.954903 112.580948,-7.955473 112.584151,-7.95655 112.590533,-7.9575 112.592247,-7.957699 112.596516,-7.960804 112.603903,-7.967379 112.607186,-7.975558 112.604698,-7.981507 112.60301,-7.985193 112.598807,-7.982767 112.591787,-7.978595 112.584671,-7.975948 112.58294,-7.975764 112.57415,-7.974827 112.562917,-7.973087 112.562493,-7.972951</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#alldesakucur">
+		<SimpleData name="DESA">Karang Widoro</SimpleData>
+		<SimpleData name="KECAMATAN">Dau</SimpleData>
+		<SimpleData name="KABUPATEN">Malang</SimpleData>
+		<SimpleData name="PROPINSI">Jawa Timur</SimpleData>
+		<SimpleData name="LUAS">2.2296</SimpleData>
+		<SimpleData name="MI_PRINX">27135</SimpleData>
+		<SimpleData name="orig_ogc_fid">27034</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>112.561238,-7.953912 112.562139,-7.95344 112.563839,-7.952581 112.564396,-7.951809 112.564622,-7.950409 112.564587,-7.948634 112.565369,-7.94636 112.56857,-7.947412 112.572472,-7.948476 112.575546,-7.949429 112.578672,-7.949873 112.581564,-7.949415 112.581917,-7.949872 112.587605,-7.954324 112.592247,-7.957699 112.590533,-7.9575 112.584151,-7.95655 112.580948,-7.955473 112.577756,-7.954903 112.575232,-7.955968 112.573351,-7.958938 112.568961,-7.957299 112.564874,-7.956556 112.561603,-7.95529 112.561238,-7.953912</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#alldesakucur">
+		<SimpleData name="DESA">Petung Sewu</SimpleData>
+		<SimpleData name="KECAMATAN">Dau</SimpleData>
+		<SimpleData name="KABUPATEN">Malang</SimpleData>
+		<SimpleData name="PROPINSI">Jawa Timur</SimpleData>
+		<SimpleData name="LUAS">2.7163</SimpleData>
+		<SimpleData name="MI_PRINX">27136</SimpleData>
+		<SimpleData name="orig_ogc_fid">27035</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>112.561238,-7.953912 112.56025,-7.954429 112.556757,-7.954753 112.553884,-7.95424 112.549408,-7.953124 112.545484,-7.950983 112.541443,-7.949351 112.539186,-7.947874 112.53909,-7.947748 112.537945,-7.94625 112.538609,-7.94446 112.538559,-7.943615 112.542236,-7.944515 112.549668,-7.943922 112.556233,-7.94194 112.556521,-7.943024 112.559537,-7.944295 112.562934,-7.945559 112.565369,-7.94636 112.564587,-7.948634 112.564622,-7.950409 112.564396,-7.951809 112.563839,-7.952581 112.562139,-7.95344 112.561238,-7.953912</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#alldesakucur">
+		<SimpleData name="DESA">Selorejo</SimpleData>
+		<SimpleData name="KECAMATAN">Dau</SimpleData>
+		<SimpleData name="KABUPATEN">Malang</SimpleData>
+		<SimpleData name="PROPINSI">Jawa Timur</SimpleData>
+		<SimpleData name="LUAS">2.6212</SimpleData>
+		<SimpleData name="MI_PRINX">27137</SimpleData>
+		<SimpleData name="orig_ogc_fid">27061</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>112.538559,-7.943615 112.538512,-7.942813 112.537291,-7.942203 112.534887,-7.942886 112.532151,-7.942877 112.531785,-7.940474 112.527941,-7.939155 112.53045,-7.937393 112.532899,-7.935758 112.533233,-7.933372 112.53777,-7.934392 112.542162,-7.934495 112.545971,-7.934101 112.550507,-7.935025 112.554634,-7.937797 112.556874,-7.937995 112.556378,-7.939094 112.555901,-7.940689 112.556233,-7.94194 112.549668,-7.943922 112.542236,-7.944515 112.538559,-7.943615</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#alldesakucur">
+		<SimpleData name="DESA">Tegalweru</SimpleData>
+		<SimpleData name="KECAMATAN">Dau</SimpleData>
+		<SimpleData name="KABUPATEN">Malang</SimpleData>
+		<SimpleData name="PROPINSI">Jawa Timur</SimpleData>
+		<SimpleData name="LUAS">3.3199</SimpleData>
+		<SimpleData name="MI_PRINX">27138</SimpleData>
+		<SimpleData name="orig_ogc_fid">27062</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>112.556233,-7.94194 112.555901,-7.940689 112.556378,-7.939094 112.556874,-7.937995 112.558083,-7.935318 112.560486,-7.934572 112.564359,-7.934177 112.568729,-7.933202 112.571458,-7.931263 112.572987,-7.932989 112.573152,-7.933303 112.57431,-7.9355 112.575623,-7.937503 112.57841,-7.940704 112.57785,-7.940693 112.578062,-7.944875 112.581564,-7.949415 112.578672,-7.949873 112.575546,-7.949429 112.572472,-7.948476 112.56857,-7.947412 112.565369,-7.94636 112.562934,-7.945559 112.559537,-7.944295 112.556521,-7.943024 112.556233,-7.94194</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#alldesakucur">
+		<SimpleData name="DESA">Landung Sari</SimpleData>
+		<SimpleData name="KECAMATAN">Dau</SimpleData>
+		<SimpleData name="KABUPATEN">Malang</SimpleData>
+		<SimpleData name="PROPINSI">Jawa Timur</SimpleData>
+		<SimpleData name="LUAS">4.4195</SimpleData>
+		<SimpleData name="MI_PRINX">27139</SimpleData>
+		<SimpleData name="orig_ogc_fid">27063</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>112.57841,-7.940704 112.575623,-7.937503 112.57431,-7.9355 112.573152,-7.933303 112.576582,-7.931458 112.57942,-7.930196 112.582011,-7.929383 112.58507,-7.929639 112.588112,-7.932178 112.590266,-7.931754 112.592499,-7.928919 112.594355,-7.926344 112.596667,-7.924268 112.59819,-7.920939 112.600433,-7.918611 112.600775,-7.916051 112.603674,-7.918419 112.605511,-7.922073 112.603954,-7.922853 112.602071,-7.927204 112.600591,-7.938967 112.596459,-7.942285 112.587333,-7.940883 112.57841,-7.940704</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#alldesakucur">
+		<SimpleData name="DESA">Mulyo Agung</SimpleData>
+		<SimpleData name="KECAMATAN">Dau</SimpleData>
+		<SimpleData name="KABUPATEN">Malang</SimpleData>
+		<SimpleData name="PROPINSI">Jawa Timur</SimpleData>
+		<SimpleData name="LUAS">4.0811</SimpleData>
+		<SimpleData name="MI_PRINX">27140</SimpleData>
+		<SimpleData name="orig_ogc_fid">27064</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>112.571458,-7.931263 112.57406,-7.929416 112.579252,-7.921891 112.580428,-7.919076 112.584028,-7.919004 112.583981,-7.916658 112.583786,-7.913301 112.587126,-7.910696 112.592594,-7.911601 112.59837,-7.914086 112.600775,-7.916051 112.600433,-7.918611 112.59819,-7.920939 112.596667,-7.924268 112.594355,-7.926344 112.592499,-7.928919 112.590266,-7.931754 112.588112,-7.932178 112.58507,-7.929639 112.582011,-7.929383 112.57942,-7.930196 112.576582,-7.931458 112.573152,-7.933303 112.572987,-7.932989 112.571458,-7.931263</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#alldesakucur">
+		<SimpleData name="DESA">Gading Kulon</SimpleData>
+		<SimpleData name="KECAMATAN">Dau</SimpleData>
+		<SimpleData name="KABUPATEN">Malang</SimpleData>
+		<SimpleData name="PROPINSI">Jawa Timur</SimpleData>
+		<SimpleData name="LUAS">3.5997</SimpleData>
+		<SimpleData name="MI_PRINX">27141</SimpleData>
+		<SimpleData name="orig_ogc_fid">27065</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>112.533233,-7.933372 112.533105,-7.933344 112.52337,-7.928339 112.528214,-7.927416 112.538904,-7.925859 112.540837,-7.925578 112.545961,-7.924221 112.547688,-7.927724 112.55261,-7.928894 112.559678,-7.929197 112.567253,-7.929426 112.570448,-7.930123 112.571458,-7.931263 112.568729,-7.933202 112.564359,-7.934177 112.560486,-7.934572 112.558083,-7.935318 112.556874,-7.937995 112.554634,-7.937797 112.550507,-7.935025 112.545971,-7.934101 112.542162,-7.934495 112.53777,-7.934392 112.533233,-7.933372</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#alldesakucur">
+		<SimpleData name="DESA">Sumber Sekar</SimpleData>
+		<SimpleData name="KECAMATAN">Dau</SimpleData>
+		<SimpleData name="KABUPATEN">Malang</SimpleData>
+		<SimpleData name="PROPINSI">Jawa Timur</SimpleData>
+		<SimpleData name="LUAS">4.5633</SimpleData>
+		<SimpleData name="MI_PRINX">27142</SimpleData>
+		<SimpleData name="orig_ogc_fid">27066</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>112.571458,-7.931263 112.570448,-7.930123 112.567253,-7.929426 112.559678,-7.929197 112.55261,-7.928894 112.547688,-7.927724 112.545961,-7.924221 112.549127,-7.923382 112.555747,-7.920396 112.559632,-7.917464 112.56065,-7.916614 112.562823,-7.914799 112.563841,-7.91454 112.568772,-7.913285 112.574297,-7.912793 112.576642,-7.915537 112.579513,-7.919095 112.580428,-7.919076 112.579252,-7.921891 112.57406,-7.929416 112.571458,-7.931263</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
